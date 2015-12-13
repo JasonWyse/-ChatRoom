@@ -1,0 +1,7 @@
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Form1.resources
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.csproj.GenerateResource.Cache
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+c:\users\fanxin.2011-20130613xz\documents\visual studio 2010\Projects\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
